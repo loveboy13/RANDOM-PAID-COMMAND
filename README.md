@@ -24,7 +24,7 @@ pkg install git
 
 rm -rf RANDOM-PAID-COMMAND
 
-git clone https://github.com/loveboy13/RANDOM-PAID-COMMAND
+git clone https://github.com/loveboy13/RANDOM-PAID-COMMAND.git
 
 cd RANDOM-PAID-COMMAND
 
