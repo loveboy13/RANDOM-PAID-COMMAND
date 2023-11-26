@@ -22,8 +22,10 @@ pip install bs4
 
 pkg install git
 
+rm -rf RANDOM-PAID-COMMAND
 
+git clone https://github.com/loveboy13/RANDOM-PAID-COMMAND
 
+cd RANDOM-PAID-COMMAND
 
-
-
+python WORK-RANDOM.py
