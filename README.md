@@ -1,5 +1,5 @@
 # RANDOM-PAID-COMMAND
-Only 3 day free gift enjoy 🥰🥰🥰😊😊
+Only 3 day gift enjoy 🥰🥰🥰😊😊
 
 # installation
 pkg update
