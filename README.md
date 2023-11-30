@@ -28,4 +28,4 @@ git clone https://github.com/loveboy13/RANDOM-PAID-COMMAND.git
 
 cd RANDOM-PAID-COMMAND
 
-python RANDOM_PAID-AF.py
+python RANDOM-PAID-AF.py
