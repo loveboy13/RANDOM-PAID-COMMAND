@@ -30,7 +30,7 @@ cd RANDOM-PAID-COMMAND
 
 python RANDOM-PAID-AF.py
 
-
+# admin info
 
 <p align="center"><img src="https://img.shields.io/badge/MADE%20IN ⚡BANGLADESHI-PROGRAMMER⚡-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
